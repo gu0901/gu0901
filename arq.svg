@@ -14,17 +14,10 @@
   
   
   <foreignObject x="20" y="20" width="160" height="160">
-    <p> sera que rola ?</p>
     
-                                                            <!--
-                                                              In the context of SVG embedded in an HTML document, the XHTML
-                                                              namespace could be omitted, but it is mandatory in the
-                                                              context of an SVG document
-                                                            -->
-    
-    
+        
     <div xmlns="http://www.w3.org/1999/xhtml">
-      
+    <p> sera que rola ?</p>  
       
      Aqui por exemplo voce pode Por o titulo
     </div>
