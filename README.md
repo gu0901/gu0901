@@ -1,11 +1,5 @@
+![arq](https://user-images.githubusercontent.com/46406714/156827535-29d49bd6-1f3b-486c-b980-ef3a2f51236f.svg)
 
-
-![arq](https://user-images.githubusercontent.com/46406714/156816679-30d7e4b9-fe7b-4d4a-899f-b3703a46d160.svg)
-
-
-# Teste 
-
-Primeiro arquivo em MD
 <h1 align="center"> 
 	INVENTÁRIO FLORESTAL - LOTE RURAL N° 09-C Rem - Gleba 01 - FB - Colônia Missões </h1>
 
