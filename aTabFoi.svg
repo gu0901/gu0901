@@ -1,0 +1,69 @@
+<svg fill="none" viewBox="-80 20 1100 430" xmlns="http://www.w3.org/2000/svg" >
+	<!-- o primeiro 0 significa Esqerda pra cima >> o segundo 00 indica direita pra cima >> -->
+	<!-- o primeiro 700 significa Largura o segundo 900 indica Altura -->
+	<foreignObject  width="1100" height="800" >
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				foreignObject{
+				/*border:20px solid red;*/
+				min-height:200px;
+				padding:auto;
+				}
+				body{
+					
+					/*border:1px solid grey;*/
+					font-family: "Times New Roman", Times, serif;
+					font-size:18px;
+					text-align:"center";
+					padding:30px;
+					min-height:180px;
+					width:800px;
+					position: static;
+					background:#FFDEAD;
+					
+					
+					
+				}
+								
+			</style>
+
+			
+			<body>
+					
+						
+						<p> 
+							**A tabela foi apresentada com o uso da CAP, pelo fato de ser esta a medida obtida. Como referrência a CAP de 78,5 cm equivale ao DAP de 25 cm.**
+						</p>	
+						<p>	
+							Para fins de cálculo foram utilizadas as seguintes fórmulas:
+							</p>                 
+						<p>	                  
+							.                  DAP
+							Área basal (m2)={(____)²}*3,14
+						</p>	              
+						<p>2</p>
+							                   
+							              
+							              
+						<p>	.             ( Área basal * Altura)  
+							Lenha ( m³) = _______________________
+						</p>
+						<p>2</p>       
+						
+						<p>	       
+							 .      CAP          
+							</p>
+							<p> DAP= _________      
+							       </p> <p>3,14
+								
+						</p>
+
+					
+			</body>
+
+		</div>
+
+
+	</foreignObject>
+
+</svg> 

@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="10 10 700 900" width="100px;" height="400px;" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container{
+					background:#FFDEAD;
+					height:150px;
+					width:600px;
+					text-align:"right";
+					
+					padding:30px;
+					position: relative;
+				}
+				body{
+				margin-top:50px;
+					border:1px solid grey;
+					padding:10px;
+					font-family: "Times New Roman", Times, serif;
+					font-size:12;
+				}
+			</style>
+
+			
+	<body>
+			<div class="container">
+				<h2>1.1 IDENTIFICAÇÃO DA PROPRIEDADE</h2>
+				<p>**Denominação:** Lote Rural n° 09-C Remanescente da Gleba 01 - FB do Núcleo Francisco Beltrão, da Colônia Missões, situado no Perímitro Urbano, no bairro Água Branca. A área inventariada pelo zoneamento atualmente vigente faz parte do perímetro urbano. Apenas, preservou-se a denominação apresentada na matrícula do imóvel.
+				Área Total do Imóvel:194.875,00 m2.
+				Município: Francisco Beltrão - PR.
+				Área Iventariada: 3.135,00 m2.k
+				
+</p>
+
+
+
+			</div>
+	</body>
+
+		</div>
+
+
+	</foreignObject>
+
+</svg> 
