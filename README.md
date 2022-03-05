@@ -1,6 +1,5 @@
-![arq](https://user-images.githubusercontent.com/46406714/156827535-29d49bd6-1f3b-486c-b980-ef3a2f51236f.svg)
-
-<h1 align="center"> 
+ 
+<h1 align="center" > 
 	INVENTÁRIO FLORESTAL - LOTE RURAL N° 09-C Rem - Gleba 01 - FB - Colônia Missões </h1>
 
 > Abril de 2020
@@ -8,53 +7,13 @@
 Inventário parcial do lote rural n° 09-C Remanescente da Gleba 01 - FB, do Patrimônio de Francisco Beltrão - PR, da Colônia Missões, situado no Município de Francisco Beltrão, com área total de 194.875,00 m2, sendo neste documento inventariada a área de 3.135,00 m2.
 
 ### 1. INFORMAÇÕES GERAIS ###
-    1.1 IDENTIFICAÇÃO DA PROPRIEDADE
-**Denominação:** Lote Rural n° 09-C Remanescente da Gleba 01 - FB do Núcleo Francisco Beltrão, da Colônia Missões, situado no Perímitro Urbano, no bairro Água Branca. A área inventariada pelo zoneamento atualmente vigente faz parte do perímetro urbano. Apenas, preservou-se a denominação apresentada na matrícula do imóvel.
-Área Total do Imóvel:194.875,00 m2.
-Município: Francisco Beltrão - PR.
-Área Iventariada: 3.135,00 m2.
-
-    1.2 IDENTIFICAÇÃO DO PROPRIETÁRIO
-Nome: Prefeitura Municipal de Francisco Beltrão - PR.
-Endereço: Rua Octaviano Teixeira dos Santos, 1000.
-CEP: 85601-030, Francisco Beltrão - PR.
-Telefone:(46) 3523-6347.
-Email:meioambiente@live.com
-
-     1.3 IDENTIFICAÇÃO DO REQUERENTE
-Nome: Prefeitura Municipal de Francisco Beltrão - PR.
-Endereço: Rua Octaviano Teixeira dos Santos, 1000.
-CEP: 85601-030, Francisco Beltrão - PR.
-Telefone:(46) 3523-6347.
-Email:meioambiente@live.com
-
-    1.4 IDENTIFICAÇÃO DO ELABORADOR
-Nome: Silvan Marchesan.
-Endereço: Rua Curitiba, 256, 85605-070, casa, Vila Nova, Francisco Beltrão - PR.
-CPF: 027.739.429-78.
-Registro CREA: 47667/D.
-Telefone:(46)99131-2800.
-Email:smarchesan@bol.com.br
-ART: 172021585336.
-
-
-### 2. CARACTERIZAÇÃO
-
-A área em questão localiza-se às margens da Rodovia Vitório Traiano, ao lado do CRE - Centro Regional de Especialidade. Sendo parte de uma área total de 194.875,00 m2, está área de 3.132,75 m2 está localizada ao lado das futuras instalações do Hospital Regional cujas obras se iniciaram.
-A área em questão encontra-se atualmente inserida no Perímetro Urbano do Município de Francisco Beltrão, em algum momento, neste documento, descreve-se como lote rural por uma questão de vínculo com a a matrícula do imóvel.
-O local se caracteriza pelo relevo plano, com ocorrência de Latossolo. Na área eram desenvolvidas atividades de pecuária, pastoreio, sendo encontradas estruturas de cercas no local. Também está parcialmente compreendida na área a estrutura de um açude desativado.
-Observa-se no local a existência de um córrego, que enm determinados pontos faz parte da área inventariada e em outros, se distância da área inventariada. Existe nascentes na área próxima da área inventariada. A área em questão faz parte da Àrea de Preservação Permanente.
-A vegetação no local se caracteriza pelo plantio programado em linha de espécies nativas, guajuviras e araças, em estágio inicial de desenvolvimento - o DAP aproximao das guajuviras é de 0,20m, com altura de 4 m aproximadamente. No restante da área se expressam nativas do estágio secundário intermediário. Caracteriza-se como formação de Floresta Estacional Semidecidual do Bioma Mata Atlântica.
-
-### 3. METODOLOGIA UTILIZADA
-
-Como o objeto en questão trata-se de uma área pequena e a elaboração de amostra não representaria adequadamente a população de árvores do objeto, optou-se, assim, pela realização de censo da população do imóvel em questão, medindo todas as árvores que apresentam CAP - Circunferência à Altura do Peito - maior que 25 cm e identificando as plantas. Também foram medidas as ocorrências de plantas menores que 25 cm que se revelaram significativas pela singularidade e identificadas para melhor caracterização da flora do local.
-Para isso utilizou-se de uma fita métrica para medição  do CAP ( Circunferência à altura do peito) e a altura das árvores foi estimada por meio visual, utilizando-se algumas árvores de referência.
-A equipe de campo foi composta pelo Engenheiro Agrônomo Silvan Marchesan, pela estagiária em Agronomia Catieli Nesi e o Mateiro João de Lima.
-
-### 4. RESULTADOS
-
-A descrição da população caracteriza-se por 491 árvores, com 32 espécies, desse total 24 árvores apresentam DAP maior ou igual a 25 cm, distribuídas por 20 famílias, independente do diâmetro, identificadas na área inventariada conforme gráfico abaixo.
+![identificacao](https://user-images.githubusercontent.com/46406714/156866970-5281d4ab-a1cf-4192-82a0-61d3bf60c0bc.svg)
+![idProp](https://user-images.githubusercontent.com/46406714/156867008-00f173e4-8bb0-4f4f-8e5b-f354eee557b4.svg)
+![idReq](https://user-images.githubusercontent.com/46406714/156867091-1af3abff-4045-4178-8c4e-1756c9b7e214.svg)
+![idElab](https://user-images.githubusercontent.com/46406714/156867715-440770b2-16d0-4fd0-8448-f62fa1c0db9c.svg)
+![caract](https://user-images.githubusercontent.com/46406714/156868172-180f11b6-1fc2-49f7-9a21-14a9a0f0aa19.svg)
+![metd](https://user-images.githubusercontent.com/46406714/156868215-9df5cc18-a190-4365-ad5b-5c8373efde92.svg)
+![resultados](https://user-images.githubusercontent.com/46406714/156868313-f4d3cfd3-51bf-499d-bbfb-7cef853dcfe5.svg)
 
 ![image](https://user-images.githubusercontent.com/100285425/155983071-7eee7874-8846-4617-81c7-a87dc7f507aa.png)
 
@@ -65,7 +24,6 @@ Figura 1 - Gráfico da distribuição da DAP ( Diâmetro à Altura do Peito ) da
 Figura 2 - Gráfico da distribuição das famílias da área inventariada.
 
 Para fins de inventário das árvores das árvores foram considerados os indivíduos que apresentam DAP ( Diâmetro à Altura do Peito) maior que 25 cm. Nos demonstrativos abaixo estão consideraddos todos os indivíduos identificados no local, inclusive os de diâmetros menor que 25 cm.
-
 
 Relação individualizada das árvores inventariadas e consideras para efeito de classificação de estágio sucessional ( com diâmetro a altura do peito > ou = a 25 cm).
 
@@ -96,46 +54,11 @@ SEQ.|NOME COMUM|NOME CIENTÍFICO| FAMÍLIA| OCORRÊNCIA | CAP - m| ALT  -m
 23| Sucará| *Xylosma ciliatifolia*| Salicaceae| Nativa| 0,83| 6
 24| Sucará| *Xylosma ciliatifolia*| Salicaceae| Nativa| 0,80| 2
 
+![tabela1](https://user-images.githubusercontent.com/46406714/156868498-511a3a9c-e77a-4500-ba57-c0165950848c.svg)
 
-> Tabela 1 - Relação de indivíduos inventariados com diâmetro igual ou maior a 25 cm no processo de censo de área para supressão.
+![aTabFoi](https://user-images.githubusercontent.com/46406714/156868933-5751a4d4-dda1-4c44-a688-d22531c9f859.svg)
 
-Nome Popular: denominação pela qual a árvore é conhecida na região.
-
-Nome Científico: denominação pela qual a árvore é conhecida no mundo todo.
-
-Família: Família a que pertence o indivíduo identificado.
-
-Ocor.: habitat de ocorrência do indivíduo.
-
-CAP -m: circunferência à altura do peito em metros.
-
-ALT -m: altura da árvore em m.
-
-**A tabela foi apresentada com o uso da CAP, pelo fato de ser esta a medida obtida. Como referrência a CAP de 78,5 cm equivale ao DAP de 25 cm.**
-
-Para fins de cálculo foram utilizadas as seguintes fórmulas:
-                  
-                  
-.                  DAP
-Área basal (m2)={(____)²}*3,14
-                   2
-                   
-              
-              
-.             ( Área basal * Altura)  
-Lenha ( m³) = _______________________
-                         2
-       
-       
- .      CAP          
- DAP= _________      
-        3,14
- 
- Conforme viso na tabela os indivíduos inventáriados com diâmetro igual ou maior a 25 cm apresentaram área basal de 3,41 m² que em um hectare equivale a 10,89 m², que não enquadra na classificação de vegetação como secundária, e e sim no estádio intermediário de regeneração segundoResolução CONAMA n°4, de 4 de maio de 1994. Mas considera-se este como classificação mais adequada, pelo fato da área ao lado, a qual já teve sua vegetação suprimida, estar classificada nesta condição e pela descrição das espécies encontradas. Não se observa a formação de uma serrapilheira intensa devido à atividade de pastagem anteriormente desenvolvida na área.
- A altura média dos indivíduos com DAP maior ou igual a 0,25 m foi de 9,33m, e de todos os indivíduos amostrados foi de 5,49 m.
- O DAP médio dos indivíduos com o DAP maior ou igual a 0,25 m foi de 0,39145 m, e de todos os indivíduos amostrados o DAP médio foi de 0,09125 m.
- A variançada DAP da população, considerando indivíduos com DAP maior ou igual a 0,25 m, é de 0,00680 e considerando todos os indivíduos amostrados é de 0,02231. E o desvio padrão, 0,16713 m para indivíduos com DAP maior ou igual a 0,25 m, e 0,08243 m para toda a população amostrada.
- Estima-se em 25,36123 m³, o volume de madeira a ser geraddo com a supressão da vegetação da área inventariada considerando todos os indivíduos inventariados. Considerando somente os indivíduos com DAP maior ou igual a 0,25 m gera-se o volume de 18,20516 m³.
+![conforme](https://user-images.githubusercontent.com/46406714/156869060-6c8b94f4-d7fe-4824-b7ec-193bab42f9e7.svg)
  
  Relação por espécie da área basal e de estimativa do volume de lenha.
  
@@ -649,32 +572,9 @@ SEQ.| NOME COMUM| NOME CIENTÍFICO| FAMÍLIA| OCOR.| CAP - m| ALT - m
 490	|Vasoura do Campo|	*Baccharis spicata*|	Asteraceae|	Nativa|	0,34|	4
 491	|Vasoura do Campo|	*Baccharis spicata*|	Asteraceae|	Nativa|	0,29|	4
 
+![tabela2](https://user-images.githubusercontent.com/46406714/156869462-27c824c1-6e25-4af2-900f-eb1c087531b2.svg)
 
- Tabela 2 - Relação de todos os indivíduos inventariados independentemente de diâmetro no processo de censo de área para supressão.
- 
- Nome Popular: denominação pela qual a árvore é conhecida na região.
- 
- Nome Científico: denominação pela qual a árvore é conhecida no meio científico.
- 
- Família: Família a que pertence o indivíduo identificado.
- 
- Ocor.: habitat de ocorrência do indivíduo.
- 
- CAP - m: circnferência à altura do peito em metros.
- 
- Alt -m: altura da árvore em m.
- 
- ### 5. ANEXOS
- 
- Relação de documentos anexados:
- 1. 02 mapas da área inventariada;
- 2. Matrícula 28.110 do Lote Rural n° 09-C-Remanescente da Gleba 01-FB;
- 3. Termo de Imissão de Posse;
- 4. Memorial descritivo;
- 5. Decreto Municipal vinculado à área;
- 6. Fotos da área inventariada;
- 7. Anotação de Responsabilidade Técnica - ART.
- 
+![anexos](https://user-images.githubusercontent.com/46406714/156869463-1242b659-a5e5-443f-a3bb-1bbfa10e9104.svg)
  
  ![image](https://user-images.githubusercontent.com/100285425/155716279-4ff29322-9fbb-4643-9db6-b4a33b8561ae.png)
  
@@ -737,25 +637,4 @@ Figura 3 - Foto da área, destaque para o cótrrego presente e aspectos gerais d
 Figura 4 - Foto da área, destaque par ao alinhamento das árvores de guajuvira e araçá, vista parcial do açude.
 ![image](https://user-images.githubusercontent.com/100285425/155717455-b321f201-0577-46e6-ba5d-c2147a3e7115.png)
 
-ART 
-
-### 6. REFERÊNCIA CONSULTADAS
-
-MARCHESAN, S. ( Maio de 2019). Inventário Florestal. **Projeto de Contenção de Cheias - Tunel de Drenagem**, 347 p. Paraná.: Secretária Municipal de Meio Ambiente - Prefeitura Municipal de Francisco Beltrão.
-
-Montovani, W. (2005). **Amostragem, caracterização de estádios sucessionanis na vegetaãp catarinense e manejo do palmiteiro ( Euterpe edulis) em regime de rendimento sustentável**. Florianópolis: Núcleo de Pesquisa em Floretas Tropicais.
-
-Nunes, E. (2008). **Inventário Florestal** ( Floresta Plantada). Timóteo, Minas Gerais.
-
-Paraná. (s.d.).**Resolução n° 2 de 18 de março de 1994**. Dispõe sobre os parâmetros para definição de diferentes estágios sucessionais. IBAMA/IAP.
-
-UFRGS.(28 DE NOVEMBRO DE 2018).**Programa de Pós-Fraduação em Botânica e Inventário Florístico  Florestal de Santa Catarina**. Fontee: UFRGS: http://ufrgs.br/fitoecologia/florars/index.php?pag=apresenta.php
-
-UFRJ. (28 de novembro de 2018).**Museu Nacional, Horto Botânico**. Fonte: Museu Nacional: http://.museunacional.ufrj.br/hortobotanico/index.html.
-
-
-<a href="h1"> Voltar ao Topo </a>
-  
-  
-  
-
+![referencias](https://user-images.githubusercontent.com/46406714/156891300-f84b092d-1479-479f-bed7-3291d4fb6505.svg)
